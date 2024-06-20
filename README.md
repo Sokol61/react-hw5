@@ -1,5 +1,8 @@
 # react-hw5
 homework react 5
+
+
+
 actions/themeActions.js:
 
 Определяем тип действия TOGGLE_THEME и создаем действие toggleTheme, которое возвращает объект действия.
